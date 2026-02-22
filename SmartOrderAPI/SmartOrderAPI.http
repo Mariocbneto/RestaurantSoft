@@ -1,0 +1,6 @@
+@SmartOrderAPI_HostAddress = http://localhost:5008
+
+GET {{SmartOrderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
